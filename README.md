@@ -1,1 +1,1 @@
-# AI-bishalKhadka
+# AI-Bishal Khadka
