@@ -203,9 +203,8 @@ class CarApp(App):
     def load(self, obj):
         print("loading last saved brain...")
         brain.load()
-if __name__ == '__main__':
-    CarApp().run()
 
 
 if __name__ == '__main__':
     CarApp().run()
+
